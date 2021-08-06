@@ -1,0 +1,10 @@
+$lightGray: #f6f6f6;
+$primaryColor: 0e6cff;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: $lightGray;
+}
